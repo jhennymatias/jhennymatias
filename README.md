@@ -1,7 +1,13 @@
 ### Olá, Eu sou a Jhennifer Matias 👋
 
+🏦 I’m currently working at BTG Pactual as a frontend development intern.
+
+🎓 Computer Engineering Student at <a href="https://enc.ufsc.br/">UFSC</>
+
+📫 E-mail para contato: jhennifercristinematias@gmail.com
+
 <div align="center">
-  <div style="display: flex; align-items: flex-start; flex-direction:row;">
+  <div style="display: inline_block">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=radical)
     
