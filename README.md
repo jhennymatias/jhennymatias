@@ -1,16 +1,19 @@
 ### Olá, Eu sou a Jhennifer Matias 👋
 
-<div align="top">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=radical)
-</div>
-<div align="top">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhennymatias&layout=compact&theme=radical)](https://github.com/yushi1007)
-  
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=radical)
+    </td>
+    <td valign="top">
+      
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhennymatias&layout=compact&theme=radical)](https://github.com/yushi1007)
+    </td>
+  </tr>
+</table>
 
-  
+
 
 Find me:
 
