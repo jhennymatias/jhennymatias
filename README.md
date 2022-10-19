@@ -7,14 +7,11 @@
 📫 E-mail para contato: jhennifercristinematias@gmail.com
 
 
-  <div style="display: inline_block">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=radical)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhennymatias&layout=compact&theme=radical)](https://github.com/yushi1007)
-      
-  </div>
-  
+<div align="left">
+  <a href="https://github.com/cadu08">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhennymatias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
       
    
