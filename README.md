@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Jhennifer Matias 👋
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; align-items: flex-start; flex-direction:row;">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhennymatias&show_icons=true&theme=radical)
     
