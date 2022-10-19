@@ -1,4 +1,4 @@
-### Olá, Eu sou a Jhennifer Matias 👋
+### Hello, I'm Jhennifer Matias! 👋
 
 🏦 I’m currently working at BTG Pactual as a frontend development intern.
 
