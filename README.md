@@ -1,6 +1,6 @@
 ### Hello, I'm Jhennifer Matias! 👋
 
-🏦 I’m currently working at BTG Pactual as a frontend development intern.
+🏦 I’m currently working at BTG Pactual as a Tech Lead.
 
 🎓 Computer Engineering Student at <a href="https://enc.ufsc.br/">UFSC</a>
 
